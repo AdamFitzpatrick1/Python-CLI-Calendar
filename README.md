@@ -3,5 +3,3 @@
 * Uses Python version 3.7
 * Cross platform compatibiity 
 > Easy to use commands and interface 
-
-  ![Tuhe Python Powered Logo(https://www.python.org/static/community_logos/python-powered-w-200x80.png)
