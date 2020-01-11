@@ -16,8 +16,8 @@ todayDate = date.today()
 print("Today's date is:", todayDate)
 print()
 
-c = calendar.TextCalendar(calendar.FRIDAY)
-display = c.formatmonth(2019,11)
+c = calendar.TextCalendar(calendar.WEDNESDAY)
+display = c.formatmonth(2020,1)
 print(display)
 
 
